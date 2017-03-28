@@ -24,4 +24,4 @@ $().notify({
 });
 
 
-Thank you
+That's it.
